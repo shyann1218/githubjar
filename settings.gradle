@@ -1,0 +1,2 @@
+include ':app', ':jarlib'
+rootProject.name='githubjar'
